@@ -1,0 +1,4 @@
+# Alle Dateien die mit .o oder .a enden - object- und archive-files
+*.[oa]
+*.~
+workspace.xml
