@@ -1,1 +1,2 @@
 dieses feature-1 macht ganz tolle Sachen
+Schnittstelle zu feature1
